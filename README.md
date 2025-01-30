@@ -1,3 +1,3 @@
 # system-rootfs
 
-The system rootfs (like:debian、archlinux).
+Used to store the system rootfs (like：debian、archlinux).
